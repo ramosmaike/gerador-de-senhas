@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">Gerador de Senhas</string>
+    <string name="btn_copy">Copiar Senha</string>
+    <string name="btn_generate">Gerar Senha</string>
+    <string name="btn_save">Salvar</string>
+    <string name="clip_label">Senha Gerada</string>
+    <string name="default_length">12</string>
+    <string name="dev_close">Fechar</string>
+    <string name="dev_info_title">Informações do Desenvolvedor</string>
+    <string name="dev_name">Maike Ramos</string>
+    <string name="dev_portfolio">Portfólio</string>
+    <string name="dev_whatsapp">WhatsApp</string>
+    <string name="hint_length">Tamanho</string>
+    <string name="hint_name">Nome da conta (ex: Facebook)</string>
+    <string name="item_name_placeholder">Nome da Conta</string>
+    <string name="item_password_placeholder">Senha</string>
+    <string name="label_delete">Excluir</string>
+    <string name="label_edit">Editar</string>
+    <string name="label_include_special">Incluir caracteres especiais</string>
+    <string name="label_lowercase">abc</string>
+    <string name="label_numbers">123</string>
+    <string name="label_special_chars">!@#</string>
+    <string name="label_uppercase">ABC</string>
+    <string name="msg_auth_error">Erro na autenticação: %1$s</string>
+    <string name="msg_auth_failed">Autenticação falhou</string>
+    <string name="msg_auth_success">Autenticação bem-sucedida!</string>
+    <string name="msg_copied">Senha copiada!</string>
+    <string name="msg_empty_length">Digite um tamanho</string>
+    <string name="msg_invalid_length">Escolha um tamanho entre 1 e 100</string>
+    <string name="msg_select_option">Selecione pelo menos uma opção</string>
+    <string name="placeholder_password">Sua senha aparecerá aqui</string>
+    <string name="prompt_subtitle">Use sua biometria para acessar suas senhas</string>
+    <string name="prompt_title">Acesso Seguro</string>
+    <style name="Base.Theme.GeradorDeSenhas" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.GeradorDeSenhas" parent="Base.Theme.GeradorDeSenhas"/>
+</resources>
